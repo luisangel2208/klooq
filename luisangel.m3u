@@ -29,3 +29,21 @@ https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u
 
 EXTINF:-1,Telecentro
 https://player-api.new.livestream.com/accounts/28126860/events/9438854/broadcasts/220472610.secure.m3u8?dw=80&hdnea=st=1619566048~exp=1619567848~acl=/i/28126860_9438854_lsiza2jeby3m3w8rqpi_1@387369/*~hmac=fa028f76fa4ec8a806778a5c98ff513b2dfa90f1fbe7722c590fb0469da2fc17&token=60889f0c_150e2c6b778a2bbe26e2748d0315b384035d0e71
+
+EXTINF:-1,Discovery Max
+http://91.126.141.12:1935/live/smil:discoverymax/chunklist_w131452988_b3128000_sleng.m3u8
+
+EXTINF:-1,HBO POP
+https://obevbmxde73mgd30.ezcdn285.net:8443/hls/rvqh1fziz.m3u8?s=Ol_l7YUDu_7jbnkAsVA8og&e=1620024052
+
+EXTINF:-1,HBO 2
+https://obevbmxde73mgd30.ezcdn285.net:8443/hls/x5r58d0omlmqph.m3u8?s=Ttw-NBlTlx4KX97S2jU35w&e=1620024173
+
+EXTINF:-1,FOX
+https://obevbmxde73mgd30.ezcdn285.net:8443/hls/0e733j.m3u8?s=utDBbfQuC7fgVDGB3odRhg&e=1620024268
+
+EXTINF:-1,TNT
+https://obevbmxde73mgd30.ezcdn285.net:8443/hls/glaldsq.m3u8?s=P4ZYQOwCVIF2XTRPPLpT8Q&e=1620024393
+
+EXTINF:-1,DISNEY CHANNEL
+https://obevbmxde73mgd30.ezcdn285.net:8443/hls/96859.m3u8?s=_E5gqL3sMQal9IVq2GeXgA&e=1620024621
